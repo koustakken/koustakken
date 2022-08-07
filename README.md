@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @koustakken
-- 👀 I’m interested in web dev
-- 🌱 I’m currently learning js
+# 👋 Hi, I’m @koustakken
 
 <!---
 koustakken/koustakken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
