@@ -5,7 +5,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="30" height="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" title="jquery" width="30" height="30" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" width="30" height="30" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" title="angular" width="30" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" title="angular" width="30" height="30" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title="nest" width="30" height="30" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="next" width="30" height="30" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koustakken&theme=github)
                                      
